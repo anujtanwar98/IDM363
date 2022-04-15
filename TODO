@@ -1,0 +1,58 @@
+Week 1:
+  ✔ Introduction @done(22-04-14 15:58)
+  ✔ Tooling @done(22-04-14 15:58)
+    ✔ command line @done(22-04-14 15:58)
+    ✔ nodejs & npm install @done(22-04-14 15:58)
+  ✔ Editor setup @done(22-04-14 15:58)
+  ✔ JSX @done(22-04-14 15:58)
+  ✔ Passing props @done(22-04-14 15:58)
+
+Week 2:
+  ✔ Layouts & layout components @done(22-04-14 15:58)
+  ✔ PropTypes @done(22-04-14 15:58)
+  ✔ Dynamic data @done(22-04-14 15:58)
+  ✔ Styling components @done(22-04-14 15:58)
+  ✔ * CSS modules @done(22-04-14 15:58)
+  ✔ * styled-components @done(22-04-14 15:58)
+  ✔ * SCSS in React @done(22-04-14 15:58)
+
+Week 3:
+  ☐ Conditional Rendering
+  ☐ Lists & Keys
+  ☐ Forms
+
+Week 4:
+  ✔ Component state and lifecycle management @done(22-04-15 13:33)
+  ✔ Hooks @done(22-04-15 14:07)
+  ☐ Lifting state up
+
+Week 5:
+  ✔ Event handling @done(22-04-14 15:58)
+  ✔ Routing @done(22-04-15 10:25)
+  ☐ Frameworks
+  ☐ * Next.js
+  ☐ * Gatsby.js
+
+Week 6:
+  ☐ Global state management
+  ☐ * React context
+  ☐ * Redux
+
+Week 7:
+  ☐ Persisting State
+  ☐ * Firebase
+
+Week 8:
+  ☐ Building
+  ☐ Deploying
+  ☐ Ejecting
+
+Week 9:
+  ☐ Svelte
+  ☐ Sveltkit
+  ☐ Vue
+
+Week 10:
+  ☐ Open lab / critiques
+
+https://www.makeuseof.com/must-follow-react-practices/

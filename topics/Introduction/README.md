@@ -33,7 +33,7 @@ theme: SuperHuman, 1
 # Lesson Objectives
 
 - Discuss React and its advantages
-- Review tooling and editor setup
+- Discuss tooling and editor setup
 - Discuss modern Javascript syntax
 - Create a React application
 - Introduce JSX
@@ -215,7 +215,7 @@ export default class App extends Component {
 
 # Objective
 
-## Review tooling and editor setup
+## Discuss tooling and editor setup
 
 ---
 
