@@ -70,6 +70,31 @@ theme: SuperHuman, 1
 
 ---
 
+[.slidenumbers: false]
+[.hide-footer]
+
+![fit](https://res.cloudinary.com/pjs-uxid/image/upload/v1649267035/interactive_app_design/react-brand_jbef09.svg)
+
+^ Okay so what does all this mean? React is a library, not a framework. A library is a collection of code that we can use in our project. Our project is not completely dependent on it.
+
+^ A framework is a complete package of code with its own functionalities, libraries, and rules. (Show AngularJS)
+
+---
+
+[.background-color: #0e0f10]
+[.slidenumbers: false]
+[.hide-footer]
+
+![fit](https://res.cloudinary.com/pjs-uxid/image/upload/v1650638999/interactive_app_design/mozilla_webdocs_bpdmi0.svg)
+
+^ React uses a virtual DOM. The DOM is the representation of the HTML code in a webpage and the model of DOM is a tree structure. <https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction>
+
+^ Each time we make a change in the code, the DOM will be rewritten and updated, which takes time. In many cases when the changes are not significant, it's not necessary to update the whole DOM. (show browser inspector)
+
+^ React creates an exact copy of the DOM called the virtual DOM. When there's a change in the code, React compares the virtual DOM with the real DOM and figures out which components need to be updated. React copies only the new parts of the virtual DOM to the real DOM instead of completely rewriting the real DOM. This approach is much faster.
+
+---
+
 ## A component
 
 ```html

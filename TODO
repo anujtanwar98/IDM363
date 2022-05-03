@@ -17,21 +17,21 @@ Week 2:
   ✔ * SCSS in React @done(22-04-14 15:58)
 
 Week 3:
-  ☐ Conditional Rendering
-  ☐ Lists & Keys
-  ☐ Forms
+  ✔ Conditional Rendering @done(22-04-19 11:12)
+  ✔ Lists & Keys @done(22-04-19 11:12)
+  ✔ Forms @done(22-04-19 12:02)
 
 Week 4:
   ✔ Component state and lifecycle management @done(22-04-15 13:33)
   ✔ Hooks @done(22-04-15 14:07)
-  ☐ Lifting state up
+  ✔ Lifting state up @done(22-04-18 11:52)
 
 Week 5:
   ✔ Event handling @done(22-04-14 15:58)
   ✔ Routing @done(22-04-15 10:25)
-  ☐ Frameworks
-  ☐ * Next.js
-  ☐ * Gatsby.js
+  ✔ Frameworks @done(22-05-03 12:19)
+  ✔ * Gatsby.js @done(22-05-03 12:19)
+  ✔ * Next.js @done(22-05-03 12:19)
 
 Week 6:
   ☐ Global state management
