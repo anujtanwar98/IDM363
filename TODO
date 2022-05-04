@@ -35,8 +35,17 @@ Week 5:
 
 Week 6:
   ☐ Global state management
-  ☐ * React context
-  ☐ * Redux
+    ✔ React context @done(22-05-04 15:21)
+    ☐ Redux
+
+  - https://blog.openreplay.com/top-6-react-state-management-libraries-for-2022
+  - https://javascript.works-hub.com/learn/state-management-battle-in-react-hooks-redux-and-recoil-9977a
+  - https://blog.devgenius.io/my-choice-of-global-state-management-for-react-in-2022-84b6f25008e9
+  - https://dev.mobify.com/v2.x/how-to-guides/categories/state-management/managing-global-state
+  - https://dmitripavlutin.com/react-context-and-usecontext/
+  - https://openbase.com/categories/js/best-react-state-management-libraries
+  - https://saranjeetgrewal.medium.com/teach-redux-to-5-years-old-11adb6900576
+  - https://www.pluralsight.com/guides/how-to-use-react-context-to-share-data-between-components
 
 Week 7:
   ☐ Persisting State
