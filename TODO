@@ -48,8 +48,8 @@ Week 6:
       - https://thereduxjsbooks.com
 
 Week 7:
-  ☐ Persisting State
-  ☐ * Firebase
+  ✔ Persisting State @done(22-06-27 13:45)
+  ✔ * Firebase @done(22-06-27 13:45)
 
 Week 8:
   ☐ Building
@@ -63,3 +63,5 @@ Week 9:
 
 Week 10:
   ☐ Open lab / critiques
+
+UseEffect sucks https://youtu.be/HPoC-k7Rxwo

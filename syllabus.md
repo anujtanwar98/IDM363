@@ -64,7 +64,7 @@ Week 1 | Introduction<br />Tooling & editor setup<br />ES#<br />JSX<br />Passing
 Week 2 | Layouts & layout components<br />PropTypes<br />Dynamic data<br />Styling components |
 Week 3 | Component state & lifecycle management<br />Global state management |
 Week 4 | Event handling<br />Routing<br />Next.js<br />Gatsby.js |
-Week 5 | Persisting State
+Week 5 | Backend as a Service (BaaS)
 Week 6 | Hooks
 Week 7 | Building, deploying, and ejecting
 Week 8 | Svelte.js<br />Vue.js
