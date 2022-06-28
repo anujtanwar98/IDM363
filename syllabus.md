@@ -42,7 +42,7 @@ This course is project-based: your design, development, and implementation effor
 
 ## Required Software/Hardware
 
-You will need access to a modern computer with a reliable internet connection and multiple web browsers. You will use Drexel Blackboard to submit assignments and GitHub to access course resources. You will need access to various software packages for this course, including a modern text editor ([VSCode](https://code.visualstudio.com)), graphic & media design programs (Adobe Suite, Figma, Invision, et cetera), and whatever additional software you prefer to stay organized. We will be using [Zoom](https://drexel.edu/it/help/a-z/zoom/) to connect during virtual office hours. GitHub is a free service that allows you to store and share documents and code. Students will use GitHub to track and submit all project deliverables.
+You will need access to a modern computer with a reliable internet connection and multiple web browsers. You will use Drexel Blackboard to submit assignments and GitHub to access course resources. You will need access to various software packages for this course, including a modern text editor ([VSCode](https://code.visualstudio.com)), graphic & media design programs (Adobe Suite, Figma, Invision, et cetera), and whatever additional software you prefer to stay organized. We will be using [Zoom](https://drexel.edu/it/help/a-z/zoom/) to connect during virtual office hours. [GitHub](https://github.com) is a free service that allows you to store and share documents and code. Students will use GitHub to track and submit all project deliverables.
 
 ## Skill Expectations
 
@@ -51,8 +51,6 @@ Students are expected to have a basic understanding of user interfaces and desig
 ## Course Deliverables
 
 ### Final Project
-
-TODO: add final project details
 
 Full details about this project are available in the [Final Project Assignment](./assignments/Final_Project.md) document.
 
@@ -65,11 +63,18 @@ Week 2 | Layouts & layout components<br />PropTypes<br />Dynamic data<br />Styli
 Week 3 | Component state & lifecycle management<br />Global state management |
 Week 4 | Event handling<br />Routing<br />Next.js<br />Gatsby.js |
 Week 5 | Backend as a Service (BaaS)
-Week 6 | Hooks
+Week 6 | State & Lifecycle (Hooks)
 Week 7 | Building, deploying, and ejecting
-Week 8 | Svelte.js<br />Vue.js
+Week 8 | Modern Front-End Frameworks
 Week 9 | Open Lab
 Week 10 | Open Lab
+
+## Grading
+
+| Component | Weight |
+| -- | -- |
+| Weekly attendance, progress, participation, discussions | 40% |
+| Final project | 60% |
 
 ## Grading Scale
 

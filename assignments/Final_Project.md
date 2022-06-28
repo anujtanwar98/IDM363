@@ -1,6 +1,16 @@
 # Final Project
 
-TODO: Update final project assignment description
+Your final project represents the culmination of the past ten weeks. This deliverable is a dynamic, E-commerce web application. Be thorough with the concepts covered in this class like routes, state management, persisting state, et cetera. Keep it very simple yet impressive. Your final should include features like:
+
+- A route displaying all of the available products. A backend service should manage product details (Google Firestore, Azure, et cetera).
+- Display the price, quantity, size (or other applicable attributes)
+- A route for individual item details
+- Order summary. Order details can be maintained via app state and local storage. User accounts/authentication for persisting orders is not required (extra credit will be given if the deliverable includes these features).
+- An administrative form that controls the product details. The form should update the backend service, which then updates the frontend.
+
+The interface design, store brand, concept, and sale items are flexible. Build something fun and exciting!
+
+I recommend having a responsive, functioning prototype of your components and layouts coded in HTML & CSS by mid-term. You'll want to get ahead on this project from the beginning of the term!
 
 ## How to submit your project
 
@@ -8,8 +18,7 @@ Submit the following items in [Drexel Blackboard](https://learn.dcollege.net/) u
 
 1. A link to your self hosted website home page. From this page, I should be able to get to every other page within the site.
 1. A link to your GitHub repository containing the code for your final project.
-   - Your repository **must** be named using the following naming convention: _idm221-xxx_ where _xxx_ is your Drexel ID shorthand. For example, for me this would be _idm221-ps42_. [Help renaming your GitHub repository](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/renaming-a-repository) (complete the steps outlined in the numbered list, you do not have to worry about the command line instructions)
-1. A link to your Figma design system file. [Figma - Share or embed files and prototypes](https://help.figma.com/hc/en-us/articles/360040531773-Share-or-embed-files-and-prototypes)
+   - Your repository **must** be named using the following naming convention: _idm364-xxx_ where _xxx_ is your Drexel ID shorthand. For example, for me this would be _idm364-ps42_. [Help renaming your GitHub repository](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/renaming-a-repository) (complete the steps outlined in the numbered list, you do not have to worry about the command line instructions)
 
 Due dates and submissions are handled through [Drexel Blackboard](https://learn.dcollege.net/).
 

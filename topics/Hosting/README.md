@@ -13,7 +13,7 @@ theme: SuperHuman, 1
 
 # Lesson Objectives
 
-- Review hosting concepts
+- Discuss hosting concepts
 - Build a React project
 - Deploy a React project
 - Eject a React project
@@ -22,7 +22,7 @@ theme: SuperHuman, 1
 
 # Objective
 
-## Review hosting concepts
+## Discuss hosting concepts
 
 ---
 
