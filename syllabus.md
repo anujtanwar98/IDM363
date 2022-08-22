@@ -1,4 +1,4 @@
-# IDM364: Interactive App Design
+# IDM363: Interactive App Design
 
 ## Credit Hours
 
@@ -10,7 +10,7 @@ Proficiency with modern operating systems (macOS, Windows, Linux) and media desi
 
 ## Course Description
 
-Welcome to IDM364: Interactive App Design. This course is a comprehensive overview of the design, creation, delivery, and maintenance of functional, standards-based content on the internet. Students will learn the aesthetics of web design alongside the underlying markup languages. They will critically evaluate web design quality, learn how to create and maintain quality websites, and learn about accessibility and web design standards and why they are essential. We will explore the principles and techniques for building modern websites using HTML5, CSS3, and Javascript.
+Welcome to IDM363: Interactive App Design. This course is a comprehensive overview of the design, creation, delivery, and maintenance of functional, standards-based content on the internet. Students will learn the aesthetics of web design alongside the underlying markup languages. They will critically evaluate web design quality, learn how to create and maintain quality websites, and learn about accessibility and web design standards and why they are essential. We will explore the principles and techniques for building modern websites using HTML5, CSS3, and Javascript.
 
 ## Prerequisites
 

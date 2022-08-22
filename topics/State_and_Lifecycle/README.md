@@ -5,7 +5,7 @@ slide-transition: true
 autoscale: true
 theme: SuperHuman, 1
 
-# IDM364
+# IDM363
 
 ## State and Lifecycle
 
@@ -57,7 +57,7 @@ theme: SuperHuman, 1
 [.slidenumbers: false]
 [.hide-footer]
 
-![fit](https://res.cloudinary.com/pjs-uxid/image/upload/v1650036040/interactive_app_design/687474703a2f2f6469676d2e64726578656c2e6564752f6372732f49444d3336342f63646e2f696d616765732f4765747479496d616765732d3633383032393634382e6a7067_cmnyah.jpg)
+![fit](https://res.cloudinary.com/pjs-uxid/image/upload/v1650036040/interactive_app_design/687474703a2f2f6469676d2e64726578656c2e6564752f6372732f49444d3336342f63636e2f696d616765732f4765747479496d616765732d3633383032393634382e6a7067_cmnyah.jpg)
 
 ^ The concept of state in React derives from that of a state machine. Think about a turnstile, used to control access to subways and amusement park rides. It's a gate with rotating arms at waist height, one of which blocks the entryway. Initially the arms are locked, blocking entry, preventing you from passing through. Deposit a coin or token in a slot and the arms are unlocked, allowing a single person to push through. After you pass through, the arms are locked again until another coin is inserted.
 

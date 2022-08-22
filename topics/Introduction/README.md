@@ -5,7 +5,7 @@ slide-transition: true
 autoscale: true
 theme: SuperHuman, 1
 
-# IDM364
+# IDM363
 
 ## Introduction
 
@@ -24,7 +24,7 @@ theme: SuperHuman, 1
 ## About This Course
 
 - [Drexel Learn](https://learn.dcollege.net/webapps/login/)
-- [Course Repository](https://github.com/Drexel-University-UXID/IDM364)
+- [Course Repository](https://github.com/Drexel-University-UXID/IDM363)
 
 ^ All course information including syllabus, overview and assignments will be managed through Drexel's Blackboard (BBLearn) system. Let's log in and review the syllabus and course information now.
 

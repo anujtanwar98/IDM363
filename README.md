@@ -1,6 +1,6 @@
-# IDM364: Interactive App Design IV
+# IDM363: Interactive App Design IV
 
-Welcome to IDM364: Interactive App Design. This course explores the basics of React (Links to an external site.), a JavaScript library for building user interfaces. Each new JavaScript framework brings something new to the table and React.js is not unique in this. What is new with React is that it challenges some of the core concepts used by the most popular front-end frameworks. This course will explore the features and functions of React.js and its component-based.
+Welcome to IDM363: Interactive App Design. This course explores the basics of React (Links to an external site.), a JavaScript library for building user interfaces. Each new JavaScript framework brings something new to the table and React.js is not unique in this. What is new with React is that it challenges some of the core concepts used by the most popular front-end frameworks. This course will explore the features and functions of React.js and its component-based.
 
 ## Instructor
 
@@ -18,7 +18,7 @@ The [course syllabus](./syllabus.md) will provide you with the course schedule, 
 
 ### Step 2: Introduce yourself
 
-Head over to the [discussion forum](https://github.com/Drexel-University-UXID/IDM364/discussions/16#discussion-3960193) to introduce yourself and meet your classmates.
+Head over to the [discussion forum](https://github.com/Drexel-University-UXID/IDM363/discussions/categories/introductions) to introduce yourself and meet your classmates.
 
 ### Step 3: Get your software setup
 
