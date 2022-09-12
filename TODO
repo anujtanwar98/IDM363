@@ -1,0 +1,64 @@
+Week 1:
+  ✔ Introduction @done(22-04-14 15:58)
+  ✔ Tooling @done(22-04-14 15:58)
+    ✔ command line @done(22-04-14 15:58)
+    ✔ nodejs & npm install @done(22-04-14 15:58)
+  ✔ Editor setup @done(22-04-14 15:58)
+  ✔ JSX @done(22-04-14 15:58)
+  ✔ Passing props @done(22-04-14 15:58)
+
+Week 2:
+  ✔ Layouts & layout components @done(22-04-14 15:58)
+  ✔ PropTypes @done(22-04-14 15:58)
+  ✔ Dynamic data @done(22-04-14 15:58)
+  ✔ Styling components @done(22-04-14 15:58)
+  ✔ * CSS modules @done(22-04-14 15:58)
+  ✔ * styled-components @done(22-04-14 15:58)
+  ✔ * SCSS in React @done(22-04-14 15:58)
+
+Week 3:
+  ✔ Conditional Rendering @done(22-04-19 11:12)
+  ✔ Lists & Keys @done(22-04-19 11:12)
+  ✔ Forms @done(22-04-19 12:02)
+
+Week 4:
+  ✔ Component state and lifecycle management @done(22-04-15 13:33)
+  ✔ Hooks @done(22-04-15 14:07)
+  ✔ Lifting state up @done(22-04-18 11:52)
+
+Week 5:
+  ✔ Event handling @done(22-04-14 15:58)
+  ✔ Routing @done(22-04-15 10:25)
+  ✔ Frameworks @done(22-05-03 12:19)
+  ✔ * Gatsby.js @done(22-05-03 12:19)
+  ✔ * Next.js @done(22-05-03 12:19)
+
+Week 6:
+  ✔ Global state management @done(22-05-05 14:56)
+    ✔ React context @done(22-05-04 15:21)
+      - https://blog.openreplay.com/top-6-react-state-management-libraries-for-2022
+      - https://javascript.works-hub.com/learn/state-management-battle-in-react-hooks-redux-and-recoil-9977a
+      - https://blog.devgenius.io/my-choice-of-global-state-management-for-react-in-2022-84b6f25008e9
+      - https://dev.mobify.com/v2.x/how-to-guides/categories/state-management/managing-global-state
+      - https://dmitripavlutin.com/react-context-and-usecontext/
+      - https://openbase.com/categories/js/best-react-state-management-libraries
+      - https://saranjeetgrewal.medium.com/teach-redux-to-5-years-old-11adb6900576
+      - https://www.pluralsight.com/guides/how-to-use-react-context-to-share-data-between-components
+    ✔ Redux @done(22-05-05 14:55)
+      - https://thereduxjsbooks.com
+
+Week 7:
+  ✔ Persisting State @done(22-06-27 13:45)
+  ✔ * Firebase @done(22-06-27 13:45)
+
+Week 8:
+  ✔ Building @done(22-06-27 14:46)
+  ✔ Deploying @done(22-06-27 14:46)
+  ✔ Ejecting @done(22-06-27 14:46)
+
+Week 9:
+  ✔ Svelte @done(22-06-27 15:50)
+  ✔ Sveltkit @done(22-06-27 15:50)
+  ✔ Vue @done(22-06-27 15:50)
+
+UseEffect sucks https://youtu.be/HPoC-k7Rxwo
