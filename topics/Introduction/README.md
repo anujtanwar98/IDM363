@@ -350,6 +350,9 @@ import k from './scripts/k.js';
 ```sh
 # Install the create-react-app package globally
 npm i -g create-react-app
+
+# Create a new React application
+npx create-react-app my_app
 ```
 
 ^ You may need to use `sudo`
