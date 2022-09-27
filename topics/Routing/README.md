@@ -16,7 +16,7 @@ theme: SuperHuman, 1
 - Discuss browser URL routing
 - Introduce React Router
 
-https://reactrouter.com/docs/en/v6/getting-started/tutorial
+<https://reactrouter.com/docs/en/v6/getting-started/tutorial>
 
 ---
 

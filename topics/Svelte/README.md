@@ -126,3 +126,7 @@ function MyComponent() {
 ^ npm prepare
 
 ---
+
+## Svelte example project
+
+^ `playground/svelte_mysql`

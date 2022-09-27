@@ -209,12 +209,14 @@ true && expression
 
 ```jsx
 function Mailbox({messages}) {
-  <>
-    <h1>Hello</h1>
-    {messages.length > 0 &&
-      <p>You have {messages.length} unread messages</p>
-    }
-  </>
+  return (
+    <>
+      <h1>Hello</h1>
+      {messages.length > 0 &&
+        <p>You have {messages.length} unread messages</p>
+      }
+    </>
+  )
 }
 ```
 

@@ -56,13 +56,13 @@ Full details about this project are available in the [Final Project Assignment](
 Week | Topics
 -----| ------
 Week 1 | Introduction<br />Tooling & editor setup<br />ES#<br />JSX<br />Passing props |
-Week 2 | Layouts & layout components<br />PropTypes<br />Dynamic data<br />Styling components |
-Week 3 | Component state & lifecycle management<br />Global state management |
-Week 4 | Event handling<br />Routing<br />Next.js<br />Gatsby.js |
+Week 2 | Layouts & layout components<br />PropTypes<br />Conditional Rendering<br />Styling components |
+Week 3 | Event handling<br />Routing<br />Frameworks (Next.js, Gatsby.js) |
+Week 4 | Component state & lifecycle management<br />Hooks<br />Forms<br />Global state management |
 Week 5 | Backend as a Service (BaaS)
-Week 6 | State & Lifecycle (Hooks)
+Week 6 | Mid Term Check-In
 Week 7 | Building, deploying, and ejecting
-Week 8 | Modern Front-End Frameworks
+Week 8 | Other Modern Front-End Frameworks
 Week 9 | Open Lab
 Week 10 | Open Lab
 

@@ -96,3 +96,5 @@ theme: SuperHuman, 1
 # Objective
 
 ## Implement a persisting state<br>management system
+
+^ `playground/react-persist_state`
